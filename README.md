@@ -1,4 +1,4 @@
 #livro de receitas:
 
-frango
+frano
 strogonofe
